@@ -1,4 +1,5 @@
 # Funding Discussion
+Discussion about funding both the project, core development and contrib development.
 
 **Where to start...**
 
